@@ -1,5 +1,3 @@
-# web_seg_sem
-Repositorio base
 Sitio ejemplo
 Proyecto integrador inicial de Front End, porque permite ir descubriendo los conceptos progresivamente.
 1. HTML
@@ -81,4 +79,3 @@ Actividad 10: agregar el favicon.ico que está en el mismo directorio compartido
 <link rel="icon" type="image/png" href="assets/favicon.png">
 Actividad 11 subir todo a GitHub.
 Y ahí ya tenés un proyecto que puede servir como puente perfecto para después introducir Git/GitHub → JavaScript → PHP → Laravel, porque empiezan a trabajar con una estructura real de proyecto y no solamente con archivos HTML aislados.
-
